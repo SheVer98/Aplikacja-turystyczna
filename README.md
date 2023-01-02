@@ -9,6 +9,7 @@ W menu głównym index.php mamy dostęp do różnych opcji:
 -KATEGORIE: pokazuje atrakcje turystyczne z podzialem na kategorie
 
 
+
 -ZNAJDZ: pokazuje konkretna atrakcje turystyczna
 
 -WYZNACZ TRASE: pozwala wyznaczyc trase (samochodem, na piechote lub rowerem) pomiedzy dwoma wybranymi punktami
