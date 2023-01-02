@@ -5,9 +5,9 @@ Projekt aplikacji turystycznej z wykorzystaniem google maps api. W pracy skorzys
 
 W menu głównym index.php mamy dostęp do różnych opcji:
 
-WSZYSTKIE: pokazuje wszystkie atrakcje turystyczne z bazy danych
-KATEGORIE: pokazuje atrakcje turystyczne z podzialem na kategorie
-ZNAJDZ: pokazuje konkretna atrakcje turystyczna
-WYZNACZ TRASE: pozwala wyznaczyc trase (samochodem, na piechote lub rowerem) pomiedzy dwoma wybranymi punktami
-ADMIN: dostep do menu admina, w ktorym mozna dodac, edytowac lub usunac atrakcje turystyczne Możemy zalogować się jako administrator - mail: admin, hasło: admin
+-WSZYSTKIE: pokazuje wszystkie atrakcje turystyczne z bazy danych
+-KATEGORIE: pokazuje atrakcje turystyczne z podzialem na kategorie
+-ZNAJDZ: pokazuje konkretna atrakcje turystyczna
+-WYZNACZ TRASE: pozwala wyznaczyc trase (samochodem, na piechote lub rowerem) pomiedzy dwoma wybranymi punktami
+-ADMIN: dostep do menu admina, w ktorym mozna dodac, edytowac lub usunac atrakcje turystyczne Możemy zalogować się jako administrator - mail: admin, hasło: admin
 Dodatkowo po zmniejszeniu okna, pojawia sie mobilne menu aplikacji.
