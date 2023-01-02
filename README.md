@@ -2,6 +2,7 @@
 z wykorzystaniem Google Maps Api
 
 Damian Nasiadko
+
 Projekt aplikacji turystycznej z wykorzystaniem google maps api. W pracy skorzystano z oprogramowania XAMPP. W pierwszej kolejności należy zaimportować bibliotekę "maps.sql". W pliku db.php, który jest plikiem inicalizującym należy podać klucz do Google api. Po wybraniu pliku głównego "index.php" ukazuje się nam menu aplikacji. 
 
 W menu głównym index.php mamy dostęp do różnych opcji:
