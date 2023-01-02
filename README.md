@@ -6,6 +6,7 @@ Projekt aplikacji turystycznej z wykorzystaniem google maps api. W pracy skorzys
 W menu głównym index.php mamy dostęp do różnych opcji:
 
 -WSZYSTKIE: pokazuje wszystkie atrakcje turystyczne z bazy danych
+aaa
 -KATEGORIE: pokazuje atrakcje turystyczne z podzialem na kategorie
 
 
